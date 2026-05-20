@@ -1,0 +1,18 @@
+{
+  "name": "reels-skill",
+  "version": "0.1.0",
+  "description": "Скилл для генерации сценариев Instagram Reels / TikTok / Shorts на русском языке из git-репозитория — на основе коммитов, инцидентов и релизов.",
+  "author": {
+    "name": "Alexander Starodubtsev"
+  },
+  "keywords": [
+    "reels",
+    "tiktok",
+    "shorts",
+    "build-in-public",
+    "ru",
+    "russian",
+    "git",
+    "content"
+  ]
+}
