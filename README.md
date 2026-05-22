@@ -67,15 +67,19 @@
 
 ```
 .claude-plugin/
-  plugin.json                    # манифест плагина
-skills/
-  writing-reels-from-repo/
-    SKILL.md                     # главный workflow
-    references/
-      ban-list-ru.md             # запрещённые фразы и замены
-      hook-bank-ru.md            # 22 хук-формулы с примерами
-      register-ru.md             # как звучит живой инженер vs AI
-      arc-clustering.md          # приёмы агрегации коммитов
+  marketplace.json               # каталог marketplace (один плагин)
+plugins/
+  reels-skill/
+    .claude-plugin/
+      plugin.json                # манифест плагина
+    skills/
+      writing-reels-from-repo/
+        SKILL.md                 # главный workflow
+        references/
+          ban-list-ru.md         # запрещённые фразы и замены
+          hook-bank-ru.md        # 22 хук-формулы с примерами
+          register-ru.md         # как звучит живой инженер vs AI
+          arc-clustering.md      # приёмы агрегации коммитов
 ```
 
 ## Под капотом

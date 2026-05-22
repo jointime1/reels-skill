@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "reels-skill",
-      "source": ".",
+      "source": "./plugins/reels-skill",
       "description": "Скилл для генерации сценариев Instagram Reels / TikTok / Shorts на русском языке из git-репозитория — на основе коммитов, инцидентов и релизов.",
       "version": "0.1.0",
       "homepage": "https://github.com/jointime1/reels-skill",
