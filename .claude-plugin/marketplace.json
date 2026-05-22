@@ -1,0 +1,26 @@
+{
+  "name": "reels-skill",
+  "owner": {
+    "name": "Alexander Starodubtsev"
+  },
+  "plugins": [
+    {
+      "name": "reels-skill",
+      "source": ".",
+      "description": "Скилл для генерации сценариев Instagram Reels / TikTok / Shorts на русском языке из git-репозитория — на основе коммитов, инцидентов и релизов.",
+      "version": "0.1.0",
+      "homepage": "https://github.com/jointime1/reels-skill",
+      "license": "MIT",
+      "keywords": [
+        "reels",
+        "tiktok",
+        "shorts",
+        "build-in-public",
+        "ru",
+        "russian",
+        "git",
+        "content"
+      ]
+    }
+  ]
+}
